@@ -1,0 +1,19 @@
+.container {
+    width: 95%;
+    max-width: 940px;
+    margin: 0 auto;
+    position: relative;
+}
+.order-section {
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+.form {
+    display: flex;
+}
+.form__btns {
+    display: flex;
+    margin-bottom: 30px;
+    margin-top: 10px;
+}
